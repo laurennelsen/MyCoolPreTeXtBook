@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-interactive-problems" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Interactive Problems</title>
+
+  <p> This is our section! </p>
+
+   <exercise xml:id="ex-true-false" label="true-false">
+    <statement correct="yes">
+        <p>
+            UCCS was founded in 1965.
+        </p>
+    </statement>
+   </exercise>
+
+
+   <exercise>
+    <statement>
+        <p>
+            Problem instructions....
+        </p>
+    </statement>
+
+    <matches>
+
+<match>
+
+<premise>
+A
+    </premise>
+
+
+    <response>
+1
+    </response>
+
+</match>
+
+
+    </matches>
+   </exercise>
+
+</section>

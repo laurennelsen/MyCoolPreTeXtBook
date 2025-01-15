@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-section-name" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Great Section!</title>
+
+  <p> This is our section! </p>
+
+    <p>
+      This is so much fun....
+    </p>
+
+
+    <me> \frac{x}{3}=e^y </me>
+
+    <definition xml:id="def-mountain">
+      <statement>
+        <p>
+          A <em>mountain</em> is.....
+        </p>
+      </statement>
+    </definition>
+
+    <p>
+      Look at <xref ref="def-mountain"/>
+    </p>
+
+    <theorem xml:id="thm-awesome-theorem">
+      <statement>
+        <p>
+          This is a great theorem
+        </p>
+      </statement>
+    </theorem>
+
+    <proof>
+      <p>
+        kjkljkjkj
+      </p>
+    </proof>
+
+    <exercise>
+    <p>
+      This is an exercise
+      </p>
+    </exercise>
+
+    <example>
+      <p>
+        This is an example!
+      </p>
+    </example>
+
+    <p>
+      type words....
+    </p>
+    
+
+</section>
